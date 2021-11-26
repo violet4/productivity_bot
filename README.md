@@ -7,3 +7,4 @@ source env/bin/activate
 pip install $(./compile_dependencies.py)
 ```
 
+Or simply: `source make_virtualenv.sh`
